@@ -1,0 +1,9 @@
+{
+  "name": "moviesql",
+  "version": "1.0.0",
+  "description": "Movies API with GraphQL",
+  "main": "index.js",
+  "author": "Sodiq Farayola",
+  "license": "MIT",
+  "private": false
+}
